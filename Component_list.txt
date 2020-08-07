@@ -1,0 +1,9 @@
+1) Arduino Uno -1
+2) Servo motor -3
+3) PIR Sensor -1
+4) Ultrasonic Sensor-1
+5) Resistors
+6)Breadboard
+7)Jumpers
+8)LED -3
+9)Buzzer-1
